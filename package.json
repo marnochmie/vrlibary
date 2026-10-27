@@ -1,0 +1,9 @@
+{
+  "name": "com.yourname.vrlib",
+  "version": "1.0.0",
+  "displayName": "VR Gameplay Library",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.xr.interaction.toolkit": "2.5.2"
+  }
+}
